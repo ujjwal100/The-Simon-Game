@@ -1,6 +1,6 @@
 # The Simon Game 
 
-## About The Game
+## Overview
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Simon_Electronic_Game.jpg" height="200" width="200">
 
